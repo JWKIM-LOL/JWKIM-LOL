@@ -40,5 +40,6 @@
 
 ## 📫 Контакты
 
-- [Telegram](https://t.me/moidrykk)
-- Почта v7rainbowapple7v@gmail.com
+**Telegram:** [@moidrykk](https://t.me/moidrykk)
+
+**Почта:** v7rainbowapple7v@gmail.com

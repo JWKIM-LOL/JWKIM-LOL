@@ -1,16 +1,31 @@
-## Hi there 👋
+# Здравствуйте! Меня зовут Ким Джэ-Ук 🙋🏻‍♂️ <img src="check.png" height="24">
 
-<!--
-**JWKIM-LOL/JWKIM-LOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Аналитик данных из Москвы
 
-Here are some ideas to get you started:
+> [!NOTE]
+> Я начал вести GitHub совсем недавно, поэтому проектов здесь пока немного. Постепенно выкладываю всё, над чем работал.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 О себе
+
+- 🎓 Закончил магистратуру «Науки о данных» в НИУ ВШЭ
+- 🗾 До этого учился в Токийском университете, бакалавриат по экономике и магистратура по биостатистике
+- 🛡️ Проходил стажировку по информационной безопасности в SK Shieldus
+- 📊 Работаю с данными и оформляю выводы в отчёты и презентации
+- 🌏 Говорю на корейском, японском, английском и русском. Четыре года учил французский и год латынь
+- 🎮 В свободное время играю в RTS и AOS-игры, смотрю киберспорт
+
+## 🛠 Инструменты
+
+![](https://skillicons.dev/icons?i=python,r,postgres,linux,git)
+
+Python, R, SQL, Excel, Google Sheets, VBA, Quarto, SAS
+
+## 📁 Что можно посмотреть
+
+- [Портфолио](https://github.com/JWKIM-LOL/Kim-Jae-Wook) — проекты по анализу данных и кейсы для отбора в OZON
+- [Сертификаты](https://github.com/JWKIM-LOL/Kim-Jae-Wook/tree/main/Сертификаты) — русский язык, математическая статистика, английский и японский языки
+
+## 📫 Контакты
+
+- [Telegram](https://t.me/moidrykk)
+- Почта v7rainbowapple7v@gmail.com
